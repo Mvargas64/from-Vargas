@@ -10,3 +10,10 @@ I like the sport of soccer because is a fun sport to watch. I also like the spor
 1. Lionel Messi
 2. Cristiano Ronaldo
 3. Neymar
+
+#### Places to play soccer
+
+* Soccer Field
+* Football Field
+* Streets
+* Anywhere as long there is space to kick the ball
