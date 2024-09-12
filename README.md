@@ -19,3 +19,25 @@ I like the sport of soccer because is a fun sport to watch. I also like the spor
 * Anywhere as long there is space to kick the ball
 
 [Link to MyDish](MyDish.md)
+
+---
+### Tables
+
+The following table is about the best restaurants that I have visited. Most of the restaurants are fast food and it requires a small amount of time to get an order. Each fast-food restaurant has its specialty. I highly recommend visiting one of these places. 
+
+| Name | Why is good? | Location |
+| --- | --- | ---: |
+| Mc Donald | Best chicken nuggets | 1106 S Main St, Maryville, MO 64468 |
+| Burger King | Best Burgers | 1601 S Main St, Maryville, MO 64468 |
+| Chipotle | Best meal | 5107 N Belt Hwy, St Joseph, MO 64506 |
+| Panda Express | Best Chinese food | 5301 N Belt Hwy, St Joseph, MO 64506 |
+
+---
+### Favorite Quotes
+
+*Steven Wright:*
+> I intend to live forever. So far, so good."
+
+*Demetri Martin:* 
+> "I wonder what the word for dots looks like in Braille."
+
