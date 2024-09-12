@@ -41,3 +41,13 @@ The following table is about the best restaurants that I have visited. Most of t
 *Demetri Martin:* 
 > "I wonder what the word for dots looks like in Braille."
 
+---
+### Code Fencing
+
+#### Nodes.js
+
+This simple Node.js code is used to capture command-line arguments by utilizing the process module, which provides access to the current Node.js process. It skips the first two arguments, which are the Node.js executable and the script's file name.
+
+```const getCmdArguments = () => process.argv.slice(2); ```
+<br>[Source](https://code.pieces.app/collections/node-js)
+
