@@ -51,3 +51,10 @@ This simple Node.js code is used to capture command-line arguments by utilizing 
 ```const getCmdArguments = () => process.argv.slice(2); ```
 <br>[Source](https://code.pieces.app/collections/node-js)
 
+---
+#### Favorite City: Chicago
+
+**Chicago** is my favorite city because is the only city with amazing skyscrapers that I have seen. The last time I visited I went to many places in the city. I saw the Bean, the **Chicago Bears** Stadium, and downtown Chicago. The best part about the trip was the river across the city.
+
+
+
